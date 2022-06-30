@@ -1,6 +1,6 @@
 # New interesting project
 You need to create app what can crop image.
-#Working process
+# Working process
 - Opening app
 - Selecting image (app must show dialog box with choose either to pick an image)
 - Selecting output file
