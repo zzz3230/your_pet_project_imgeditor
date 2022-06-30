@@ -1,6 +1,7 @@
 # New interesting project
 You need to create app what can crop image.
-_background always balck_
+
+_Background always balck_
 # Working process
 - Opening app
 - Selecting image (app must show dialog box with choose either to pick an image)
